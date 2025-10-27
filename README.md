@@ -1,2 +1,2 @@
 # processamento-imagens
-Projetos da materia processamento de imagens
+Projeto da materia processamento de imagens
